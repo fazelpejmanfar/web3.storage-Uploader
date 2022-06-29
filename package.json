@@ -11,6 +11,6 @@
         "minimist": "^1.2.5",
         "web3.storage": "^3.5.4"
     },
-    "author": "YOUR NAME",
-    "license": "(Apache-2.0 AND MIT)"
+    "author": "Fazel Pejmanfar",
+    "license": "MIT"
 }
